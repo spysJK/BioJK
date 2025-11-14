@@ -16,7 +16,7 @@
 }
 
 body {
-  background: radial-gradient(circle at 30% 20%, #0f172a, #000);
+  background: radial-gradient(circle at 30% 20%, #660000, #010005);
   color: var(--text);
   font-family: 'Inter', sans-serif;
   display: flex;
